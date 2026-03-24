@@ -48,7 +48,6 @@ int32_t generate(const model::LLama2Model& model, const std::string& sentence, i
 
 
 int main(int argc, char* argv[]) {
-  printf("%d", 1);
   if (argc != 3) {
     LOG(INFO) << "Usage: ./demo checkpoint path tokenizer path";
     return -1;
