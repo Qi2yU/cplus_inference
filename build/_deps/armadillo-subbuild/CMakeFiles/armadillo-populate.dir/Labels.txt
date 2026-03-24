@@ -1,0 +1,14 @@
+# Target labels
+ armadillo-populate
+# Source files and their labels
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/CMakeFiles/armadillo-populate
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/CMakeFiles/armadillo-populate.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/CMakeFiles/armadillo-populate-complete.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/armadillo-populate-prefix/src/armadillo-populate-stamp/armadillo-populate-build.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/armadillo-populate-prefix/src/armadillo-populate-stamp/armadillo-populate-configure.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/armadillo-populate-prefix/src/armadillo-populate-stamp/armadillo-populate-download.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/armadillo-populate-prefix/src/armadillo-populate-stamp/armadillo-populate-install.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/armadillo-populate-prefix/src/armadillo-populate-stamp/armadillo-populate-mkdir.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/armadillo-populate-prefix/src/armadillo-populate-stamp/armadillo-populate-patch.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/armadillo-populate-prefix/src/armadillo-populate-stamp/armadillo-populate-test.rule
+/data/qy/KuiperLLama/build/_deps/armadillo-subbuild/armadillo-populate-prefix/src/armadillo-populate-stamp/armadillo-populate-update.rule

@@ -1,0 +1,16 @@
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/CMakeFiles/install/strip.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/CMakeFiles/install/local.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/CMakeFiles/install.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/CMakeFiles/list_install_components.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/CMakeFiles/rebuild_cache.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/CMakeFiles/edit_cache.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/CMakeFiles/test.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/CMakeFiles/armadillo.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/tests1/CMakeFiles/install/strip.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/tests1/CMakeFiles/install/local.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/tests1/CMakeFiles/install.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/tests1/CMakeFiles/list_install_components.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/tests1/CMakeFiles/rebuild_cache.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/tests1/CMakeFiles/edit_cache.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/tests1/CMakeFiles/test.dir
+/data/qy/KuiperLLama/package/armadillo-15.2.4/build/tests1/CMakeFiles/smoke_test.dir
