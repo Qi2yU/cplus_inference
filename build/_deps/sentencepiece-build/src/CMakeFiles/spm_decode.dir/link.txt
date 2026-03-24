@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -Wall -fPIC  -fmacro-prefix-map=/data/qy/KuiperLLama/='' -g -rdynamic CMakeFiles/spm_decode.dir/spm_decode_main.cc.o -o spm_decode  -Wl,-rpath,/data/qy/KuiperLLama/build/_deps/sentencepiece-build/src: libsentencepiece.so.0.0.0 -lpthread

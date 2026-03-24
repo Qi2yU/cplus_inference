@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libabsl_poison.so.2407.0.0 -o libabsl_poison.so.2407.0.0 CMakeFiles/poison.dir/internal/poison.cc.o  -Wl,-rpath,"\$ORIGIN:" libabsl_malloc_internal.so.2407.0.0 libabsl_base.so.2407.0.0 libabsl_spinlock_wait.so.2407.0.0 libabsl_raw_logging_internal.so.2407.0.0 libabsl_log_severity.so.2407.0.0 -lpthread

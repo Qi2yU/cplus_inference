@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -Wall -fPIC  -fmacro-prefix-map=/data/qy/KuiperLLama/='' -g -rdynamic CMakeFiles/spm_train.dir/spm_train_main.cc.o -o spm_train  -Wl,-rpath,/data/qy/KuiperLLama/build/_deps/sentencepiece-build/src: libsentencepiece_train.so.0.0.0 libsentencepiece.so.0.0.0 -lpthread
